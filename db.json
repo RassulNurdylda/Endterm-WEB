@@ -1,0 +1,113 @@
+{
+    "electronics": [
+        {
+            "id": 1,
+            "name": "type-c wire",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51jDym5yctL._AC_SX425_.jpg",
+            "price": 3.99,
+            "raiting": "4.5 out of 5"
+        },
+        {
+            "id": 2,
+            "name": "headphones mini jack 3.5mm Apple style",
+            "image": "https://www.digitalsave.co.uk/images/detailed/0/earpods.jpg",
+            "price": 7.99,
+            "raiting": "4.2 out of 5"
+        },
+        {
+            "id": 3,
+            "name": "protable bluetooth speaker JBL Charge 4",
+            "image": "https://www.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb24df975/JBL_Charge4_Front_Midnight_Black_1605x1605px.png?sw=537&sfrm=png",
+            "price": 150.99,
+            "raiting": "4.0 out of 5"
+        },
+        {
+            "id": 4,
+            "name": "power bank Xiaomi S2000 fast charge 20000mah",
+            "image": "https://images.wbstatic.net/big/new/11850000/11857229-1.jpg",
+            "price": 99.98,
+            "raiting": "4.8 out of 5"
+        },
+        {
+            "id": 5,
+            "name": "wireless headphones Huawei p20 ",
+            "image": "https://i5.walmartimages.com/asr/3bc1de9c-0fcd-471c-97df-1e3e5aad94e5_1.86199383dd9f99bd591018339f1dae33.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+            "price": 180.09,
+            "raiting": "3.8 out of 5"
+        }
+    ],
+    "home": [
+        {
+            "id": 11,
+            "name": "Xiaomi alarm clock ",
+            "image": "https://ae01.alicdn.com/kf/H71d798c4208641908240a053e4cd123ei/Xiaomi-Cleargrass-Bluetooth-Alarm-Clock-Temperature-Humidity-Display-LCD-Screen-Adjustable-Nightlight-With-Mijia-APP-Smart.jpg_Q90.jpg_.webp",
+            "price": 13.56,
+            "raiting": "4.8 out of 5"
+        },
+        {
+            "id": 12,
+            "name": "Electric kettle",
+            "image": "https://ae01.alicdn.com/kf/HTB15znzhvNNTKJjSspcq6z4KVXa4/2020-New-XIAOMI-MIJIA-Electric-kettle-fast-boiling-stainless-teapot-samovar-kitchen-Water-Kettle-Mi-home.jpg_Q90.jpg_.webp",
+            "price": 12.36,
+            "raiting": "3.9 out of 5"
+        },
+        {
+            "id": 13,
+            "name": "Digital Scales",
+            "image": "https://ae01.alicdn.com/kf/Hcf568bd9593f465885ea10ca23b3bff5f/200g-Precision-Digital-Scales-for-Gold-Jewelry-0-01-Weight-Electronic-Scale-Mini-Electronic-Scales-for.jpg_Q90.jpg_.webp",
+            "price": 4.42,
+            "raiting": "3.5 out of 5"
+        },
+        {
+            "id": 14,
+            "name": "Electric steam iron",
+            "image": "https://ae01.alicdn.com/kf/Hcc04671a5ec44da79bca5ac4d56388a9K/2400W-Cordless-Electric-Steam-Iron-Portable-Ironing-Machine-Garment-Flatiron-Non-stick-Soleplate-Multifunction-Adjustable.jpg_Q90.jpg_.webp",
+            "price": 34.41,
+            "raiting": "4.2 out of 5"
+        },
+        {
+            "id": 15,
+            "name": "A vacuum cleaner",
+            "image": "https://ae01.alicdn.com/kf/H8ab058252cdf45a1a01bdd23541cb209W/TOMULE-Handheld-Car-Vacuum-Cleaner-Portable-Powerful-Auto-Vacuum-Cleaner-LED-lighting-for-Car-Home-Wet.jpg_Q90.jpg_.webp",
+            "price": 11.23,
+            "raiting": "3.5 out of 5"
+        }
+    ],
+    "hobby": [
+        {
+            "id": 111,
+            "name": "Acoustic Guitar for Beginners",
+            "image": "https://ae01.alicdn.com/kf/H76a7a61f453d4084b17bdfae7116d035J/41-38-inch-Acoustic-Guitar-for-Beginners-Guitar-Sets-with-Capo-Picks-6-Strings-Guitar-Basswood.jpg_Q90.jpg_.webp",
+            "price": 101.27,
+            "raiting": "4.5 out of 5"
+        },
+        {
+            "id": 112,
+            "name": "Fishing Lure",
+            "image": "https://ae01.alicdn.com/kf/Hf3a7b20865784745b88c92d4cc8a45d32/MRERDITH-JERK-MINNOW-100F-14g-Hot-Model-Fishing-Lure-Hard-Bait-24Color-wobbler-Minnow-Quality-Professional.jpg_640x640.jpg",
+            "price": 3.40,
+            "raiting": "4.9 out of 5"
+        },
+        {
+            "id": 113,
+            "name": "Backpacking Tent",
+            "image": "https://ae01.alicdn.com/kf/HTB1wR2BPmzqK1RjSZPcq6zTepXad/Desert-Fox-Backpacking-Tent-2-Person-Aluminum-Pole-Lightweight-Camping-Tent-Double-Layer-Portable-Handbag-for.jpg_Q90.jpg_.webp",
+            "price": 43.22,
+            "raiting": "4.5 out of 5"
+        },
+        {
+            "id": 114,
+            "name": "Military Camouflage Net",
+            "image": "https://ae01.alicdn.com/kf/Hc9e09a7244ad494aa5c03eacae075153t/2M-X-4M-Military-Camouflage-Net-Netting-Sports-Tent-Woodlands-Leaves-Camo-Cover-for-Outdoor-Hunting.jpg_Q90.jpg_.webp",
+            "price": 11.52,
+            "raiting": "4.0 out of 5"
+        },
+        {
+            "id": 115,
+            "name": "Electric bicycle",
+            "image": "https://ae01.alicdn.com/kf/H53a74dbb6d3548f8834c84d3195d06535/On-Sale-High-carbon-steel-3000w-5000w-8000w-Electric-bicycle-frame-new-design-enduro-ebike-Closed.jpg_Q90.jpg_.webp",
+            "price": 300,
+            "raiting": "2.5 out of 5"
+        }
+    ]
+}
